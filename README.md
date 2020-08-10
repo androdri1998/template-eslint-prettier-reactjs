@@ -1,3 +1,6 @@
+# template-eslint-prettier-reactjs
+This project contain basic settings of the eslint, prettier and editorconfig to ReactJS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
